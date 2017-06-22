@@ -13,7 +13,7 @@
   overflow:hidden;
 }
 a.active {
-	background:blue;
+    background:blue;
     color:yellow;
 }
 .navigation_tab ul li{
@@ -27,17 +27,17 @@ a.active {
   display:block;
 }
 .page_content {
-	overflow:hidden;
+    overflow:hidden;
     margin: 5px 10px 10px 10px;
 }
 .page_content1{
-	float:left;
+    float:left;
     width:45%;
 }
 .page_content2{
-	float:right;
+    float:right;
     width:50%;
 }
-p a {  
+.page_content p a {  
     text-decoration:none;
 }
