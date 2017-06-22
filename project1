@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" type="text/css" href="/css/project1.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="navigation_tab">
+    <ul>
+      <li><a href="#" class="active">Tab 1</a></li>
+      <li><a href="#">Tab 2</a></li>
+    </ul>
+  </div>
+  <div class="page_content">
+    <div class="page_content1">
+      <p><a href="#">Linktowebsite1</a></p>
+      <p><a href="#">Linktowebsite2</a></p>
+      <p><a href="#">Linktowebsite3</a></p>
+      <p><a href="#">Linktowebsite4</a></p>
+      <p><a href="#">Linktowebsite5</a></p>
+    </div>
+    <div class="page_content2">
+      <p><a href="#">Linktowebsite11</a></p>
+      <p><a href="#">Linktowebsite22</a></p>
+      <p><a href="#">Linktowebsite13</a></p>
+      <p><a href="#">Linktowebsite14</a></p>
+      <p><a href="#">Linktowebsite15</a></p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
