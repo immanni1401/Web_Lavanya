@@ -45,3 +45,17 @@ a.active {
 .page_content p a {  
     text-decoration:none;
 }
+.backbtn {
+    clear:both;
+    float:right;
+}
+.backbtn a {
+    color:white;
+    background:black;
+    font-size:15px;
+    text-decoration:none;
+    padding:10px;
+}
+.backbtn a:hover {
+    background:grey;
+}
